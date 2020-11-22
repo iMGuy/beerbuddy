@@ -1,2 +1,0 @@
-# beerbuddy
-The BeerBuddy frontPage
